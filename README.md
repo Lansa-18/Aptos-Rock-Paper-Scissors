@@ -46,10 +46,10 @@ This project implements a Rock Paper Scissors game as a smart contract on the Ap
 ## Demo Video
 [Watch the Video here](https://youtu.be/oXBQZ1S_sZ0)
 
-Peace ✌️✌️🍀
-
 ## Development Notes
 
 The contract uses Aptos's randomness module for generating computer moves.
 The game implements a versioning system (GameV3) to allow for future upgrades while maintaining backward compatibility.
 A deprecated set_total_rounds function is kept for compatibility with previous versions.
+
+Peace ✌️✌️🍀

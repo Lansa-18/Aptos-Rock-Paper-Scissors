@@ -43,6 +43,11 @@ This project implements a Rock Paper Scissors game as a smart contract on the Ap
 - **keeping_score:** (keeping track of the no of wins of both computer and the player
 - **round_system:** basically a best of round kind of functionlity.
 
+## Demo Video
+[Watch the Video here](https://youtu.be/oXBQZ1S_sZ0)
+
+Peace ✌️✌️🍀
+
 ## Development Notes
 
 The contract uses Aptos's randomness module for generating computer moves.

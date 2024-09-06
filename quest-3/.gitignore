@@ -1,0 +1,20 @@
+# Ignore build artifacts
+/build/
+/target/
+
+# Ignore Move package cache
+.move/
+
+# Ignore node_modules if using JavaScript/TypeScript for scripts or tools
+node_modules/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log

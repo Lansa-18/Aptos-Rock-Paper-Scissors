@@ -44,7 +44,7 @@ This project implements a Rock Paper Scissors game as a smart contract on the Ap
 - **round_system:** basically a best of round kind of functionlity.
 
 ## Demo Video
-[Watch the Video here](https://youtu.be/oXBQZ1S_sZ0)
+[Watch the Video here](https://youtu.be/3mEk993ThQg)
 
 ## Development Notes
 
